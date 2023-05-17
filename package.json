@@ -2,7 +2,7 @@
   "name": "sever",
   "version": "1.0.0",
   "description": "",
-  "main": "comments.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
 
